@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi, I'm Zugasti 👋
+- 🎓 B. Sc. in Economics
+- 📝 RStudio, Python & SQL
+- 🌱 Currently learning PowerBI and Backend Technologies.
 <!--
 **zugadan/zugadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
